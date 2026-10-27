@@ -6,8 +6,8 @@ Software developer focused on building clean, useful, and scalable products.
 - 🔭 I’m currently working on full-stack web apps
 - 🌱 I’m learning modern frontend/backend tools
 - 💬 I love clean code, problem solving, and product thinking
-- 📫 Reach me: your@email.com
-- 🌐 Portfolio: https://yourwebsite.com
+- 📫 Reach me: kipkiruilaban02003@gmail.com
+- 🌐 Portfolio: https://profile-rz5g.onrender.com/
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
